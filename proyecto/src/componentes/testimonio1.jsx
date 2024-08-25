@@ -1,4 +1,7 @@
 import user1 from '../imagenes/user1.jpg'
+import user2 from '../imagenes/user2.jpg'
+import user3 from '../imagenes/user3.jpg'
+
 
 function Testimonios() {
 
@@ -38,7 +41,7 @@ function Testimonios() {
         <div className="figure">
             <figcaption> @Kimberly_Garcia</figcaption>
             <div class="iconos">
-             <img src={user1} className="user" />
+             <img src={user3} className="user" />
             </div>     
             <p className="texto">
                 "El servicio al cliente es excepcional. Me ayudaron a 
