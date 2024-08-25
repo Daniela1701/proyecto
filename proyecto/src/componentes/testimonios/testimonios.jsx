@@ -25,7 +25,7 @@ function Testimonios() {
                  <p><strong>Excelente trabajo</strong></p>
             </div>
         </div>
-        </div>
+      </div>
             
         
       </>
