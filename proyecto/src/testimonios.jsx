@@ -1,4 +1,5 @@
- 
+import testimonio1 from './componentes/testimonio1'
+
 function testimonio1(){
     return(
       <>
